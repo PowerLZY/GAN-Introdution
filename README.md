@@ -18,5 +18,5 @@
 ## 3. Conditional GAN (条件GAN)
 
 - 笔记：
-  +[李宏毅GAN教程（5）](https://zhuanlan.zhihu.com/p/57308383)
-  +[李宏毅学习笔记31.GAN.02.Conditional Generation by GAN](https://blog.csdn.net/oldmao_2001/article/details/105903619)
+  + [李宏毅GAN教程（5）](https://zhuanlan.zhihu.com/p/57308383)
+  + [李宏毅学习笔记31.GAN.02.Conditional Generation by GAN](https://blog.csdn.net/oldmao_2001/article/details/105903619)
