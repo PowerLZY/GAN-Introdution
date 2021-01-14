@@ -53,11 +53,12 @@
 | BigGAN:Large Scale GAN Training for High Fidelity Natural Image Synthesis | Brock et al.               | 2018.09-ICLR 2019 | [demo](https://tfhub.dev/deepmind/biggan-256)[paper](https://arxiv.org/pdf/1809.11096.pdf)[link](https://github.com/AaronLeong/BigGAN-pytorch) | 512x512 obj     | 9.6/166.3   |
 | StyleGAN:A Style-Based Generator Architecture for Generative Adversarial Networks | Tero Karras                | 2018.12           | [paper](https://arxiv.org/pdf/1812.04948.pdf)[link](https://github.com/NVlabs/stylegan) | 1024x1024 human | 4.04        |
 
-# 4、应用范围
+## 3-1 GANs Applications in CV
 
-| [图像翻译 (Image Translation)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/tree/master/GAN对抗生成网络/Image-translation图像翻译) | [超分辨率 (Super-Resolution)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/tree/master/GAN对抗生成网络/Super-Resolution超分辨率) | [图像上色(Colourful Image Colorization)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/tree/master/GAN对抗生成网络/Colourful-ImageColorization图像上色) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [图像翻译 (Image Translation)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/tree/master/GAN对抗生成网络/Image-translation图像翻译) | [超分辨率 (Super-Resolution)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/tree/master/GAN对抗生成网络/Super-Resolution超分辨率) | [图像上色(Colourful Image Colorization)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/tree/master/GAN对抗生成网络/Colourful-Image Colorization图像上色  ) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [图像修复(Image Inpainting)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/blob/master/GAN对抗生成网络/Image Inpainting图像修复/README.md) | [图像去噪(Image denoising)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/tree/master/GAN对抗生成网络/Image-denoising图像去噪) | [交互式图像生成](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network/tree/master/GAN对抗生成网络/交互式图像生成) |
+
 
 
 
