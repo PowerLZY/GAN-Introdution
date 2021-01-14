@@ -1,4 +1,4 @@
-# GAN-Introdution
+# GAN-Introdution 更新中
 ### 1. 介绍GAN
 
 - GAN的基本思想
